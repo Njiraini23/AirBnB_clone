@@ -2,6 +2,7 @@
 """Defines the State class."""
 from models.base_model import BaseModel
 
+
 class Review(BaseModel):
     """
     class has public attributes

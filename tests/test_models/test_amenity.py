@@ -43,4 +43,3 @@ class TestAmenity(unittest.TestCase):
     """
     def test_count(self):
         self.assertFalse(hasattr(self.test1, "do_count()"))
-

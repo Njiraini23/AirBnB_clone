@@ -34,7 +34,7 @@ class TestState(unittest.TestCase):
         test_created2 = self.test2.created_at
         self.assertIsNot(test_created1, test_created2)
         self.assertTrue(type(test_created2) is datetime.datetime)
-    
+
     """
     Test inherited methods.
     """
@@ -46,4 +46,4 @@ class TestState(unittest.TestCase):
 
 
 if __name__ == '__main__':
-    unittest.main() 
+    unittest.main()

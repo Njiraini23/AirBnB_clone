@@ -1,7 +1,7 @@
-# 0x00. AirBnB clone - The console
+#0x06. AirBnB clone - Web dynamic 
 ![image](https://user-images.githubusercontent.com/113690133/223448020-88f93844-6013-44c3-912b-3ff7513e0214.png)
 
-The goal of the project is to deploy on our server a simple copy of the AirBnB website.
+The goal of the project is to deploy on your server a simple copy of the AirBnB website.
 We will have a complete web application composed by:
 
 1. A command interpreter to manipulate data without a visual interface, like in a Shell (perfect for development and debugging)
